@@ -1,0 +1,5 @@
+string_len = len("python")
+float(string_len)
+print("Length of python into float", string_len)
+str(string_len)
+print("Length of python into string", string_len)
